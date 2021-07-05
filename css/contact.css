@@ -1,0 +1,24 @@
+.menu{
+      width: 30%;
+      
+      display: flex;
+      justify-content: space-between;
+      text-decoration: none;
+      font-weight: 500;
+      align-items: center;
+      height: 2vh;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      
+      
+}
+.background{
+      background-image: url(./Nmae\ of\ Rishi.png) ;
+      height: 100vh;
+      padding: auto;
+      background-size: 5rem;
+      background-position: center;
+      color:black;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+      
+      
+}

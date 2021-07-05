@@ -1,0 +1,21 @@
+.menu{
+      width: 30%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      text-decoration: none;
+      font-weight:400;
+
+
+}
+
+*{
+      font-family: 'Libre Franklin', sans-serif
+}
+.hello{
+      background-color: whitesmoke;
+}
+.bottom{
+      background-color:white;
+      
+}
